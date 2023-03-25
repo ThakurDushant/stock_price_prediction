@@ -45,6 +45,6 @@ As you might have guessed, our focus will be on the technical analysis and visua
 6. TENSORFLOW
 7. SKLEARN
 
-#SORCE CODE IN MASTER BRANCH
+# SORCE CODE IN NN-MODEL BRANCH
 
 
